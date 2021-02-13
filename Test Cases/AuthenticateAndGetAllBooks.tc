@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AuthenticateAndGetAllBooks</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>66c67554-48e0-42ab-8273-1a16e37df5fa</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a877c06e-3fa3-40c5-aa4f-0df47b722d64</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
